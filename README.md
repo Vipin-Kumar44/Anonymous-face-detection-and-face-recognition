@@ -1,4 +1,6 @@
 # Anonymous-face-detection-and-face-recognition
+![DEMO image](https://example.com/myimage.png)
+
 ## 🚀 Key Features
 - **High-Speed Processing**: Optimized for 25 FPS on edge devices
 - **Smart Resource Management**: Automatic resolution scaling & frame skipping
