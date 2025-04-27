@@ -17,8 +17,8 @@
 6. Quantized TensorFlow Lite models
 
 ## Note:-
-working on python 3.9
-downlode facenet_keras.h5 and store it in models 
+-working on python 3.9
+-downlode facenet_keras.h5 and store it in models -----https://www.kaggle.com/datasets/utkarshsaxenadn/facenet-keras?utm_source=chatgpt.com
 
 ## 📦 Installation
 ```bash
