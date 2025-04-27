@@ -1,5 +1,5 @@
 # Anonymous-face-detection-and-face-recognition
-![DEMO image]([https://example.com/myimage.png](https://github.com/Vipin-Kumar44/Anonymous-face-detection-and-face-recognition/blob/main/demo.png))
+![DEMO image](https://github.com/Vipin-Kumar44/Anonymous-face-detection-and-face-recognition/blob/main/demo.png)
 
 ## 🚀 Key Features
 - **High-Speed Processing**: Optimized for 25 FPS on edge devices
