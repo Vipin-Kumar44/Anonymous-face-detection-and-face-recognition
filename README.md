@@ -22,10 +22,6 @@
 
 ## 📦 Installation
 ```bash
-# Clone repository
-git clone https://github.com/yourusername/optimized-face-recognition.git
-cd optimized-face-recognition
-
 # Install with performance extras
 pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu118  # For CUDA support
 
