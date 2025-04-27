@@ -16,6 +16,10 @@
 5. GPU-accelerated inference
 6. Quantized TensorFlow Lite models
 
+## Note:-
+working on python 3.9
+downlode facenet_keras.h5 and store it in models 
+
 ## 📦 Installation
 ```bash
 # Clone repository
@@ -25,6 +29,4 @@ cd optimized-face-recognition
 # Install with performance extras
 pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu118  # For CUDA support
 
-## Note:-
-working on python 3.9
-downlode facenet_keras.h5 and store it in models 
+
